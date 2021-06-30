@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mike Huffman</h1>
 <h3 align="center">A passionate react developer from Washington State, USA</h3>
 
-- 🌱 I’m currently learning **everything react/react native**
+- 🌱 I’m always learning **everything react/react native**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **react development**
 
-- 📫 How to reach me **immikehuffman@gmail.com**
+- 📫 I can be reached at **immikehuffman@gmail.com**
 
 - ⚡ Fun fact **I built my first website with a private domain at the age of 7.**
 
