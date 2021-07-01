@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **react development**
 
-- 📫 I can be reached at **immikehuffman@gmail.com**
+- 📫 I can be reached at **mike@mikehuffman.me*
 
 - ⚡ Fun fact **I built my first website with a private domain at the age of 7. It was a fan site for Dragonball Z that had flash buttons I was very proud of.**
 
