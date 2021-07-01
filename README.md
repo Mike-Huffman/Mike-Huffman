@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mike Huffman</h1>
 <h3 align="center">A passionate react developer from Washington State, USA</h3>
-<h4 align="center">**I want to join your dev team! Please send me an email (or message on LinkedIn) if you are looking to fill a position for a react developer!** (07/01/2020)</h4>
+
+<h4 align="center"><strong>I want to join your dev team! Please send me an email (or message on LinkedIn) if you are looking to fill a position for a react developer!</strong> (07/01/2020)</h4>
+
+
 
 - 🌱 I’m always learning **everything react/react native**
 
