@@ -9,6 +9,8 @@
 
 - ⚡ Fun fact **I built my first website with a private domain at the age of 7.**
 
+- **I want to join your dev team! Please send me an email (or message on LinkedIn) if you are looking to fill a position for a react developer!** (07/01/2020)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/mikehuffman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mikehuffman" height="30" width="40" /></a>
