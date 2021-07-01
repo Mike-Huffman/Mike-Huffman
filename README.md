@@ -11,7 +11,7 @@
 
 - 📫 I can be reached at **immikehuffman@gmail.com**
 
-- ⚡ Fun fact **I built my first website with a private domain at the age of 7.**
+- ⚡ Fun fact **I built my first website with a private domain at the age of 7. It was a fan site for Dragonball Z that had flash buttons I was very proud of.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
