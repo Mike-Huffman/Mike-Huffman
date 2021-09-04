@@ -7,7 +7,7 @@
 
 - 🌱 I’m always learning **new skills and technologies to better help me help your team or organization**
 
-- 💬 Talk to me about **Why I am so passionate about technology or about the projects I have worked ono ver the last 20+ years*
+- 💬 Talk to me about **Why I am so passionate about technology or about the projects I have worked on over the last 20+ years**
 
 - 📫 I can be reached at **mike@mikehuffman.me**
 
