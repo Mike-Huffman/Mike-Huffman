@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mike Huffman</h1>
-<h3 align="center">A passionate react developer from Washington State, USA</h3>
+<h3 align="center">A passionate developer and IT Support Specialist from Washington State, USA</h3>
 
-<h4 align="center">I want to join your dev team! Please send me an email (or message on LinkedIn) if you are looking to fill a position for a react developer!(07/01/2020)</h4>
+<h4 align="center">I want to join your IT team! Please send me an email (or message on LinkedIn) if you are looking to fill a position for an entry-level IT specialist who is resourceful and knows how to get the job done!(09/01/2020)</h4>
 
 
 
-- 🌱 I’m always learning **everything react/react native**
+- 🌱 I’m always learning **new skills and technologies to better help me help your team or organization**
 
-- 💬 Ask me about **react development**
+- 💬 Talk to me about **Why I am so passionate about technology or about the projects I have worked ono ver the last 20+ years*
 
 - 📫 I can be reached at **mike@mikehuffman.me**
 
